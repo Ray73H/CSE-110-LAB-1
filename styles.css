@@ -90,6 +90,14 @@ img {
   overflow-y: scroll;
 }
 
+#section3 {
+  padding-bottom: 20px;
+}
+
+#section4 {
+  height: 150px;
+}
+
 @media screen and (max-width: 800px) {
   li a {
     display: none;
